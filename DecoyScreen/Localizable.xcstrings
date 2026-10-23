@@ -1,0 +1,1587 @@
+{
+  "sourceLanguage": "en",
+  "strings": {
+    "%lld": {},
+    "1. Check that Rolle's theorem holds for f(x) = ln sin x on [π/6, 5π/6].": {
+      "extractionState": "stale",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "1. 验证罗尔定理对函数 f(x) = ln sin x 在区间 [π/6, 5π/6] 上的正确性。"
+          }
+        }
+      }
+    },
+    "2. Prove that arcsin x + arccos x = π/2 for −1 ≤ x ≤ 1.": {
+      "extractionState": "stale",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "2. 证明 arcsin x + arccos x = π/2（−1 ≤ x ≤ 1）。"
+          }
+        }
+      }
+    },
+    "3. Show that the equation x⁵ + x − 1 = 0 has exactly one positive root.": {
+      "extractionState": "stale",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "3. 证明方程 x⁵ + x − 1 = 0 只有一个正根。"
+          }
+        }
+      }
+    },
+    "3.1 Mean Value Theorems": {
+      "extractionState": "stale",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "3.1 中值定理"
+          }
+        }
+      }
+    },
+    ":D": {},
+    "Add to Bookmarks": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "添加到书签"
+          }
+        }
+      }
+    },
+    "Address": {
+      "extractionState": "stale",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "地址"
+          }
+        }
+      }
+    },
+    "Advanced Mathematics": {
+      "extractionState": "stale",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "高等数学"
+          }
+        }
+      }
+    },
+    "Allow Camera": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "允许相机"
+          }
+        }
+      }
+    },
+    "Author": {
+      "extractionState": "stale",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "作者"
+          }
+        }
+      }
+    },
+    "Back": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "后退"
+          }
+        }
+      }
+    },
+    "Baidu": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "百度"
+          }
+        }
+      }
+    },
+    "Beichen University Press": {
+      "extractionState": "stale",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "北辰大学出版社"
+          }
+        }
+      }
+    },
+    "Bilibili": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "哔哩哔哩"
+          }
+        }
+      }
+    },
+    "Bookmarks": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "书签"
+          }
+        }
+      }
+    },
+    "Browser": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "浏览器"
+          }
+        }
+      }
+    },
+    "Camera": {
+      "extractionState": "stale",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "相机"
+          }
+        }
+      }
+    },
+    "Cancel": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "取消"
+          }
+        }
+      }
+    },
+    "Chapter 3 · Mean Value Theorems": {
+      "extractionState": "stale",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "第三章 · 微分中值定理"
+          }
+        }
+      }
+    },
+    "Choose decoy": {
+      "extractionState": "stale",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "选择伪装"
+          }
+        }
+      }
+    },
+    "Classic Novel": {
+      "extractionState": "stale",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "经典名著"
+          }
+        }
+      }
+    },
+    "Clear": {
+      "extractionState": "stale",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "清除"
+          }
+        }
+      }
+    },
+    "Clear Cookies and Site Data": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "清除 Cookie 和网站数据"
+          }
+        }
+      }
+    },
+    "Clear History": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "清除历史记录"
+          }
+        }
+      }
+    },
+    "Clear all browsing history?": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "要清除所有浏览记录吗？"
+          }
+        }
+      }
+    },
+    "Close": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "关闭"
+          }
+        }
+      }
+    },
+    "Close All": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "全部关闭"
+          }
+        }
+      }
+    },
+    "Close Tab": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "关闭标签页"
+          }
+        }
+      }
+    },
+    "Close all incognito tabs?": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "关闭所有无痕标签页？"
+          }
+        }
+      }
+    },
+    "Close all tabs?": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "关闭所有标签页？"
+          }
+        }
+      }
+    },
+    "Company": {
+      "extractionState": "stale",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "公司"
+          }
+        }
+      }
+    },
+    "Copy Link": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "复制链接"
+          }
+        }
+      }
+    },
+    "Cover": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "遮挡"
+          }
+        }
+      }
+    },
+    "Covers": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "封面"
+          }
+        }
+      }
+    },
+    "Decoy": {
+      "extractionState": "stale",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "伪装"
+          }
+        }
+      }
+    },
+    "Decoy Screen": {
+      "extractionState": "stale",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "摸鱼浏览器"
+          }
+        }
+      }
+    },
+    "Decoys": {
+      "extractionState": "stale",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "伪装"
+          }
+        }
+      }
+    },
+    "Delete": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "删除"
+          }
+        }
+      }
+    },
+    "Done": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "完成"
+          }
+        }
+      }
+    },
+    "Done. You'll be signed out of websites.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "已清除。你将从各网站退出登录。"
+          }
+        }
+      }
+    },
+    "Douyin": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "抖音"
+          }
+        }
+      }
+    },
+    "E. M. Hartwell": {
+      "extractionState": "stale",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "【英】E. M. 哈特韦尔 著"
+          }
+        }
+      }
+    },
+    "Edition": {
+      "extractionState": "stale",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "版次"
+          }
+        }
+      }
+    },
+    "Eighth Edition · Volume I": {
+      "extractionState": "stale",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "第八版 · 上册"
+          }
+        }
+      }
+    },
+    "Example 1. Prove that x / (1 + x) < ln(1 + x) < x for x > 0.": {
+      "extractionState": "stale",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "例1 证明：当 x > 0 时，x / (1 + x) < ln(1 + x) < x。"
+          }
+        }
+      }
+    },
+    "Exercises 3-1": {
+      "extractionState": "stale",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "习题 3-1"
+          }
+        }
+      }
+    },
+    "Fill in": {
+      "extractionState": "stale",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "填入"
+          }
+        }
+      }
+    },
+    "Finance Department · October 2026": {
+      "extractionState": "stale",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "财务部 · 2026年10月"
+          }
+        }
+      }
+    },
+    "Find in Page": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "在网页中查找"
+          }
+        }
+      }
+    },
+    "Focus Timer": {
+      "extractionState": "stale",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "专注计时"
+          }
+        }
+      }
+    },
+    "Focused today: %@": {
+      "extractionState": "stale",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "今日已专注 %@"
+          }
+        }
+      }
+    },
+    "Forward": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "前进"
+          }
+        }
+      }
+    },
+    "Frequently visited": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "常去"
+          }
+        }
+      }
+    },
+    "Hengxing Group · Finance Dept.": {
+      "extractionState": "stale",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "星衡集团 · 财务部"
+          }
+        }
+      }
+    },
+    "Hide Cover Outside": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "外屏不显示封面"
+          }
+        }
+      }
+    },
+    "Hide everything": {
+      "extractionState": "stale",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "全部藏起来"
+          }
+        }
+      }
+    },
+    "History": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "历史记录"
+          }
+        }
+      }
+    },
+    "Hold": {
+      "extractionState": "stale",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "按住返回"
+          }
+        }
+      }
+    },
+    "Hold to come back": {
+      "extractionState": "stale",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "长按返回"
+          }
+        }
+      }
+    },
+    "Hold to go back": {
+      "extractionState": "stale",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "按住返回浏览器"
+          }
+        }
+      }
+    },
+    "Home": {
+      "extractionState": "stale",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "首页"
+          }
+        }
+      }
+    },
+    "INTERNAL · DO NOT DISTRIBUTE": {
+      "extractionState": "stale",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "内部资料 · 严禁外传"
+          }
+        }
+      }
+    },
+    "Incognito": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "无痕浏览"
+          }
+        }
+      }
+    },
+    "Maths Textbook": {
+      "extractionState": "stale",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "数学教材"
+          }
+        }
+      }
+    },
+    "Menu": {
+      "extractionState": "stale",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "菜单"
+          }
+        }
+      }
+    },
+    "More": {
+      "extractionState": "stale",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "更多"
+          }
+        }
+      }
+    },
+    "NORTHFIELD CLASSICS": {
+      "extractionState": "stale",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "北原经典文库"
+          }
+        }
+      }
+    },
+    "New Incognito Tab": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "新建无痕标签页"
+          }
+        }
+      }
+    },
+    "New Tab": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "新标签页"
+          }
+        }
+      }
+    },
+    "Next": {
+      "extractionState": "stale",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "下一页"
+          }
+        }
+      }
+    },
+    "Next Page": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "下一页"
+          }
+        }
+      }
+    },
+    "No bookmarks yet. Tap ⋯ › Add to Bookmarks on any page.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "还没有书签。在任意网页点 ⋯ › 添加到书签。"
+          }
+        }
+      }
+    },
+    "No camera here (simulator), so the outer screen can't show it. Close the phone to see the decoy.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "这里没有相机（模拟器），外屏无法同时显示。合上手机即可看到伪装。"
+          }
+        }
+      }
+    },
+    "No history yet": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "还没有历史记录"
+          }
+        }
+      }
+    },
+    "No incognito tabs": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "没有无痕标签页"
+          }
+        }
+      }
+    },
+    "No open tabs": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "没有打开的标签页"
+          }
+        }
+      }
+    },
+    "OK": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "好"
+          }
+        }
+      }
+    },
+    "Open in Incognito Tab": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "在无痕标签页中打开"
+          }
+        }
+      }
+    },
+    "Open in New Tab": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "在新标签页中打开"
+          }
+        }
+      }
+    },
+    "Or tap 🙈: this screen turns into a textbook page. Hold it to come back.": {
+      "extractionState": "stale",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "或者点 🙈：这块屏幕马上变成教材页面。长按即可回来。"
+          }
+        }
+      }
+    },
+    "Outer off": {
+      "extractionState": "stale",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "外屏关"
+          }
+        }
+      }
+    },
+    "Outer on": {
+      "extractionState": "stale",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "外屏开"
+          }
+        }
+      }
+    },
+    "Outer screen": {
+      "extractionState": "stale",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "外屏"
+          }
+        }
+      }
+    },
+    "Outer screen cover is off": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "外屏封面已关闭"
+          }
+        }
+      }
+    },
+    "Outer screen decoy is off": {
+      "extractionState": "stale",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "外屏伪装已关闭"
+          }
+        }
+      }
+    },
+    "Outer screen not available right now (use the app full screen with the phone open)": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "外屏暂时不可用（请展开手机并全屏使用本应用）"
+          }
+        }
+      }
+    },
+    "Outer screen shows: %@": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "外屏正在显示：%@"
+          }
+        }
+      }
+    },
+    "Pages you open in incognito tabs aren't saved to your history, and their cookies and site data are wiped when you close your last incognito tab.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "在无痕标签页中打开的网页不会保存到历史记录；关闭最后一个无痕标签页后，它们的 Cookie 和网站数据都会被清除。"
+          }
+        }
+      }
+    },
+    "Please do not disturb": {
+      "extractionState": "stale",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "请勿打扰"
+          }
+        }
+      }
+    },
+    "Previous": {
+      "extractionState": "stale",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "上一页"
+          }
+        }
+      }
+    },
+    "Previous Page": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "上一页"
+          }
+        }
+      }
+    },
+    "Proof. Let φ(x) = f(x) − f(a) − (f(b) − f(a)) / (b − a) · (x − a). Then φ is continuous on [a, b], differentiable on (a, b), and φ(a) = φ(b) = 0. By Rolle's theorem there is ξ in (a, b) with φ′(ξ) = 0, which is the claim.": {
+      "extractionState": "stale",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "证 作辅助函数 φ(x) = f(x) − f(a) − (f(b) − f(a)) / (b − a) · (x − a)。则 φ 在 [a, b] 上连续，在 (a, b) 内可导，且 φ(a) = φ(b) = 0。由罗尔定理，存在 ξ ∈ (a, b) 使 φ′(ξ) = 0，即得所证。"
+          }
+        }
+      }
+    },
+    "Q3 2026 Business Review": {
+      "extractionState": "stale",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "2026年第三季度经营分析报告"
+          }
+        }
+      }
+    },
+    "Quarterly Report": {
+      "extractionState": "stale",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "季度报告"
+          }
+        }
+      }
+    },
+    "Recent": {
+      "extractionState": "stale",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "最近访问"
+          }
+        }
+      }
+    },
+    "Recommended textbook for science and engineering": {
+      "extractionState": "stale",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "普通高等教育理工类规划教材"
+          }
+        }
+      }
+    },
+    "Reload": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "刷新"
+          }
+        }
+      }
+    },
+    "Remove Bookmark": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "移除书签"
+          }
+        }
+      }
+    },
+    "Report title": {
+      "extractionState": "stale",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "报告标题"
+          }
+        }
+      }
+    },
+    "Request Desktop Site": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "请求桌面版网站"
+          }
+        }
+      }
+    },
+    "Request Mobile Site": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "请求移动版网站"
+          }
+        }
+      }
+    },
+    "Reset to Original Text": {
+      "extractionState": "stale",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "恢复原始文字"
+          }
+        }
+      }
+    },
+    "Revenue, margin and cost structure by business line": {
+      "extractionState": "stale",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "分业务线收入、毛利与成本结构分析"
+          }
+        }
+      }
+    },
+    "Search Engine": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "搜索引擎"
+          }
+        }
+      }
+    },
+    "Search History": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "搜索历史记录"
+          }
+        }
+      }
+    },
+    "Search or enter address": {
+      "extractionState": "stale",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "搜索或输入网址"
+          }
+        }
+      }
+    },
+    "Search or type URL": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "搜索或输入网址"
+          }
+        }
+      }
+    },
+    "Search or type a web address to begin.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "搜索或输入网址开始浏览。"
+          }
+        }
+      }
+    },
+    "Sends the iPad user agent so sites show their full pages, like Safari and Chrome on iPad. Applies to new tabs; change one page with ⋯ › Request Mobile Site.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "发送 iPad 的 User Agent，让网站像在 iPad 版 Safari 和 Chrome 上一样显示完整页面。对新标签页生效；单个网页可用 ⋯ › 请求移动版网站 切换。"
+          }
+        }
+      }
+    },
+    "Settings": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "设置"
+          }
+        }
+      }
+    },
+    "Share…": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "分享…"
+          }
+        }
+      }
+    },
+    "Show Cover Outside": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "外屏显示封面"
+          }
+        }
+      }
+    },
+    "Show Tabs": {
+      "extractionState": "stale",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "显示标签页"
+          }
+        }
+      }
+    },
+    "Show decoy on outer screen": {
+      "extractionState": "stale",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "在外屏显示伪装"
+          }
+        }
+      }
+    },
+    "Show on the outer screen while I watch": {
+      "extractionState": "stale",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "我看视频时在外屏显示"
+          }
+        }
+      }
+    },
+    "Shows the pages of the book on the outer screen": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "显示外屏那本书的内页"
+          }
+        }
+      }
+    },
+    "Signs you out of every website you've logged in to here.": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "会让你退出在这里登录过的所有网站。"
+          }
+        }
+      }
+    },
+    "Snap the phone shut to hide everything": {
+      "extractionState": "stale",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "啪地合上手机，一切都会藏起来"
+          }
+        }
+      }
+    },
+    "Solution. Apply Theorem 2 to f(t) = ln(1 + t) on [0, x]: ln(1 + x) = x / (1 + ξ) for some 0 < ξ < x. Since 1 < 1 + ξ < 1 + x, the inequality follows.": {
+      "extractionState": "stale",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "解 对 f(t) = ln(1 + t) 在 [0, x] 上应用定理2，得 ln(1 + x) = x / (1 + ξ)，其中 0 < ξ < x。由于 1 < 1 + ξ < 1 + x，不等式成立。"
+          }
+        }
+      }
+    },
+    "Someone coming? Snap the phone shut: the video stops and the decoy fills the screen.": {
+      "extractionState": "stale",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "有人过来？啪地合上手机：视频立刻暂停，屏幕上只剩伪装。"
+          }
+        }
+      }
+    },
+    "Starting the outer screen…": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "正在启动外屏…"
+          }
+        }
+      }
+    },
+    "Stop": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "停止"
+          }
+        }
+      }
+    },
+    "Studying": {
+      "extractionState": "stale",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "专注学习中"
+          }
+        }
+      }
+    },
+    "Subtitle": {
+      "extractionState": "stale",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "副标题"
+          }
+        }
+      }
+    },
+    "Tabs": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "标签页"
+          }
+        }
+      }
+    },
+    "Tabs %lld": {
+      "extractionState": "stale",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "标签 %lld"
+          }
+        }
+      }
+    },
+    "Tap Address in the dock to search": {
+      "extractionState": "stale",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "点右侧的「地址」搜索或输入网址"
+          }
+        }
+      }
+    },
+    "Tap the little cover at the top left to change the decoy or its title.": {
+      "extractionState": "stale",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "点左上角的小封面，可以更换伪装或修改标题。"
+          }
+        }
+      }
+    },
+    "The Weight of Quiet Hours": {
+      "extractionState": "stale",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "静默时光的重量"
+          }
+        }
+      }
+    },
+    "The camera couldn't start, so the outer screen is off": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "相机无法启动，外屏伪装已停用"
+          }
+        }
+      }
+    },
+    "The outer screen faces the people across from you. It shows your decoy while you watch.": {
+      "extractionState": "stale",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "外屏朝向你对面的人。你看视频时，外屏显示伪装。"
+          }
+        }
+      }
+    },
+    "The outer screen needs camera access": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "外屏显示需要相机权限"
+          }
+        }
+      }
+    },
+    "Theorem 1 (Rolle). If f(x) is continuous on [a, b], differentiable on (a, b), and f(a) = f(b), then there is at least one ξ in (a, b) such that f′(ξ) = 0.": {
+      "extractionState": "stale",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "定理1（罗尔定理） 如果函数 f(x) 在闭区间 [a, b] 上连续，在开区间 (a, b) 内可导，且 f(a) = f(b)，那么在 (a, b) 内至少有一点 ξ，使得 f′(ξ) = 0。"
+          }
+        }
+      }
+    },
+    "Theorem 2 (Lagrange). If f(x) is continuous on [a, b] and differentiable on (a, b), then there is at least one ξ in (a, b) such that f(b) − f(a) = f′(ξ)(b − a).": {
+      "extractionState": "stale",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "定理2（拉格朗日中值定理） 如果函数 f(x) 在闭区间 [a, b] 上连续，在开区间 (a, b) 内可导，那么在 (a, b) 内至少有一点 ξ，使得 f(b) − f(a) = f′(ξ)(b − a)。"
+          }
+        }
+      }
+    },
+    "They'll only see “%@”.": {
+      "extractionState": "stale",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "别人只会看到《%@》。"
+          }
+        }
+      }
+    },
+    "This device has no camera (the simulator), so the outer screen stays off. Closing the phone still shows the decoy.": {
+      "extractionState": "stale",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "这台设备没有相机（模拟器），外屏不会显示。合上手机仍然可以看到伪装。"
+          }
+        }
+      }
+    },
+    "Title": {
+      "extractionState": "stale",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "书名"
+          }
+        }
+      }
+    },
+    "Today": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "今天"
+          }
+        }
+      }
+    },
+    "Watch whatever you like.": {
+      "extractionState": "stale",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "想看什么就看什么。"
+          }
+        }
+      }
+    },
+    "Weibo": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "微博"
+          }
+        }
+      }
+    },
+    "What you're doing": {
+      "extractionState": "stale",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "你在做什么"
+          }
+        }
+      }
+    },
+    "Why the camera is on": {
+      "extractionState": "stale",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "为什么相机是开着的"
+          }
+        }
+      }
+    },
+    "Words": {
+      "extractionState": "stale",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "文字"
+          }
+        }
+      }
+    },
+    "Xiaohongshu": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "小红书"
+          }
+        }
+      }
+    },
+    "Yesterday": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "昨天"
+          }
+        }
+      }
+    },
+    "You're Incognito": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "你已进入无痕模式"
+          }
+        }
+      }
+    },
+    "Zhihu": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "知乎"
+          }
+        }
+      }
+    },
+    "Zoom": {
+      "extractionState": "stale",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "缩放"
+          }
+        }
+      }
+    },
+    "iOS lets an app show its own picture on the outer screen while you use the inner one only when the camera is running. Decoy Screen keeps the rear camera on at its lowest setting and throws every frame away. Nothing is recorded or saved, but the camera indicator stays on and it uses some battery.": {
+      "extractionState": "stale",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "只有在相机运行时，iOS 才允许应用在你使用内屏的同时往外屏上显示自己的画面。摸鱼浏览器会以最低画质开着后置相机，并丢弃每一帧。不会录制或保存任何内容，但相机指示灯会一直亮着，也会多耗一些电。"
+          }
+        }
+      }
+    },
+    "iPad Version of Websites": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "iPad 版网页"
+          }
+        }
+      }
+    },
+    "of 25:00": {
+      "extractionState": "stale",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "共 25:00"
+          }
+        }
+      }
+    }
+  },
+  "version": "1.0"
+}
