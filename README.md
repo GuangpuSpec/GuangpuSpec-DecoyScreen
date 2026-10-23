@@ -24,7 +24,7 @@
 </p>
 
 > 这是光谱Spec 为 iPhone Duo 做的三个「最没用、但非常适合 iPhone Duo」的 App 之一，另外两个是
-> [广东模拟器](https://github.com/__OWNER__/GuangpuSpec-FoldSmash) 和 [工位指示牌](https://github.com/__OWNER__/GuangpuSpec-DeskSign)。
+> [广东模拟器](https://github.com/Xenogeneic112/GuangpuSpec-FoldSmash) 和 [工位指示牌](https://github.com/Xenogeneic112/GuangpuSpec-DeskSign)。
 
 ## 它是怎么摸鱼的
 
@@ -69,7 +69,7 @@ iOS 只允许 App 在**内屏正在使用**时往外屏放自己的内容，前�
 ## 开始使用
 
 ```bash
-git clone https://github.com/__OWNER__/GuangpuSpec-DecoyScreen.git
+git clone https://github.com/Xenogeneic112/GuangpuSpec-DecoyScreen.git
 cd GuangpuSpec-DecoyScreen
 open DecoyScreen.xcodeproj
 ```
